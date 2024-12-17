@@ -22,7 +22,7 @@ This script allows you to dump saved Wi-Fi passwords from Windows, Linux, and An
    ```
 2. Navigate to the Project Folder
    ```
-   cd wifi-pass
+   cd silver-eureka
    ```
 3. Run the Script
    ```
