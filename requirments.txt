@@ -1,4 +1,0 @@
-subprocess
-netsh
-wlan
-show
